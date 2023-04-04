@@ -1,0 +1,46 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "harika bir lorem12 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!",
+      "title": "Angular",
+      "price": 75
+    },
+    {
+      "id": 2,
+      "content": "çok fena bir lorem12 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!",
+      "title": "Python",
+      "price": 115
+    },
+    {
+      "id": 3,
+      "content": "bu bir lorem12",
+      "title": "React",
+      "price": 150
+    },
+    {
+      "id": 4,
+      "content": "harika bir lorem12 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim! ",
+      "title": "JavaScrpit",
+      "price": 125
+    },
+    {
+      "id": 5,
+      "content": "harika bir lorem12Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!",
+      "title": "C#",
+      "price": 55
+    },
+    {
+      "id": 6,
+      "content": "harika bir lorem12Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!",
+      "title": "HTLM",
+      "price": 0
+    },
+    {
+      "id": 7,
+      "content": "CSS bir lorem12 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, aperiam doloremque. Perferendis est fugit enim!",
+      "title": "CSS",
+      "price": 75
+    }
+  ]
+}
